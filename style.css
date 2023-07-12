@@ -67,10 +67,13 @@ section{
         width: 80vw;
     }
     .sec-apresentacao, .div-msg{
+        text-align: center;
         flex-direction: column;
         justify-content: space-around;
+        align-items: center;
+        gap: 5px;
     }
-    .nav-icons ul{
+    .nav-icons {
         width: 40vw;
     }
 }
